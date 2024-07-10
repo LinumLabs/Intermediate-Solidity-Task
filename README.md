@@ -20,11 +20,11 @@ The other side of the protocol are the borrowers. Users should be able to borrow
 
 This is a large task and in the real world would require weeks of planning and development. We do not expect you to develop this system in full. We would like to assess how far you get in the provided deadline and the quality of code you provide. With that said, there are a few MVP features we require to be complete by the deadline. These are:
 
-Token contracts for saUSDC, saETH and saMATIC
-Functionality for a lender to deposit USDC, ETH and MATIC and receive saUSDC, saETH and saMATIC in return.
-Functionality for a lender to redeem their saUSDC, saETH and saMATIC for USDC, ETH and MATIC in return. Receiving yields due to the token rebasing.
-Tests to cover all the above functionality.
-Functionality around borrowers and their credit score is not needed currently but may be asked for you to build in the future if we feel we need more code to examine.
+- Token contracts for saUSDC, saETH and saMATIC
+- Functionality for a lender to deposit USDC, ETH and MATIC and receive saUSDC, saETH and saMATIC in return.
+- Functionality for a lender to redeem their saUSDC, saETH and saMATIC for USDC, ETH and MATIC in return. Receiving yields due to the token rebasing.
+- Tests to cover all the above functionality.
+- Functionality around borrowers and their credit score is not needed currently but may be asked for you to build in the future if we feel we need more code to examine.
 
 The MVP for the assignment is focused on building a seamless lending facility where users with funds can deposit their assets to achieve high APYs.
 
