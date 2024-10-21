@@ -4,6 +4,8 @@ You are required to build a simple escrow contract which faciliates a simple gam
 
 Please use Foundry as your development environment.
 
+Please add @garethjameslarkan and @saksijas to your repo for review.
+
 # Task Overview
 
 We would like to faciliate a simple gambling game, where two users compete by betting on the ETH/USDC price. Two users will go head to head by deciding what will come first, an increase of the ETH price by 5% or a decrease of the ETH price by 5%. If at any point, one of these barriers are reached, the winning player can call closeGame and the escrow contract should verify they have won and send the entry fees to the winner.
